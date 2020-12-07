@@ -1,3 +1,3 @@
 # Projects
-Course Project HTML and CSS -
+Project using HTML and CSS -
 Designed a Space Launch Website using HTML and CSS
